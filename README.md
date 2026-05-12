@@ -39,12 +39,6 @@ I am eager to learn, adapt easily, and interested in developing new skills in va
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorvilefort&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvilefort&layout=compact&hide_border=true&langs_count=8&theme=midnight-purple" />
-</p>
 
 
 
