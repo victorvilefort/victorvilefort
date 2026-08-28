@@ -1,7 +1,7 @@
 <h1 align="left">Victor Vilefort</h1>
 
 <p align="left">
-  <em>Computer Science student at SPTech/em>
+  <em>Computer Science student at SPTech </em>
 </p>
 
 
