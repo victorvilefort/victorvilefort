@@ -15,7 +15,7 @@ In parallel, I take online courses focused on programming and its different lang
 
 I am eager to learn, adapt easily, and interested in developing new skills in various technology-related areas.
 
-## 🛠️ Tecnologias & Ferramentas
+## Technologys and tools
 
 <p align="left">
   <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
