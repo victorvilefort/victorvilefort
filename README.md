@@ -1,24 +1,11 @@
-<h1 align="left">Olá, eu sou Victor Vilefort 👋</h1>
+<h1 align="left">Victor Vilefort</h1>
 
 <p align="left">
   <em>Estudante de Ciencia da Computação na SPtech</em>
 </p>
 
-## 🧑‍💻 Sobre mim
 
-(PT-BR) Sou Victor Vilefort Saldanha, atualmente estou cursando ciências da computação na São Paulo Tech School.   
-
-
-
-Paralelamente, realizo cursos online voltados para a área da programação e suas diferentes linguagens, sempre buscando expandir meus conhecimentos.  
-
-
-
-Estou disposto a aprender, com facilidade de adaptação e interesse em desenvolver novas habilidades em diferentes áreas voltadas a tecnologia.
-
-
-
-(EN-US) My name is Victor Vilefort Saldanha, and I am currently studying computer science at São Paulo Tech School. 
+My name is Victor Vilefort Saldanha, and I am currently studying computer science at São Paulo Tech School. 
 
 
 
@@ -31,12 +18,15 @@ I am eager to learn, adapt easily, and interested in developing new skills in va
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </p>
 
 
